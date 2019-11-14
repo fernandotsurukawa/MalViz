@@ -1,0 +1,62 @@
+﻿Name,Classification
+9BackdoorTrojanGeneric,Backdoor
+BackdoorRemcos,Backdoor
+BackdoorBladabindi,Backdoor
+BackdoorRemcos,Backdoor
+BackdoorAndrom,Backdoor
+BackdoorSymmiGeneric,Backdoor
+BackdoorTrojanGeneric,Backdoor
+Moi-Win7-RemoteAccess_1,RemoteAccess
+Moi-Win7-RemoteAccess_2  ,RemoteAccess
+Moi-Win7-RemoteAccess_3 ~ 70s,RemoteAccess
+Moi-Win7-RemoteAccess_4 ~ 70s - 44s,RemoteAccess
+Moi-Win7-RemoteAccess_5,RemoteAccess
+Moi-Win7-RemoteAccess_6,RemoteAccess
+Moi-Win7-RemoteAccess_7,RemoteAccess
+Moi-XP-RemoteAccess_1,RemoteAccess
+Moi-XP-RemoteAccess_2,RemoteAccess
+Moi-XP-RemoteAccess_3,RemoteAccess
+Moi-XP-RemoteAccess_4,RemoteAccess
+Moi-XP-RemoteAccess_5,RemoteAccess
+Moi-XP-RemoteAccess_6,RemoteAccess
+Moi-XP-RemoteAccess_7_exec,RemoteAccess
+Moi-XP-RemoteAccess_7_install,RemoteAccess
+faran-7-vs-backdoor-9,Backdoor
+faran-7-vs-backdoor-10,Backdoor
+faran-7-vs-backdoor-11,Backdoor
+faran-7-vs-backdoor-12,Backdoor
+faran-7-vs-backdoor-13,Backdoor
+faran-7-vs-backdoor-14,Backdoor
+faran-7-vs-backdoor-15,Backdoor
+Faran-win7-vs-7fa0ef3f22045c45c80885865d0d0942,
+Faran-win7-vs-13ef35e912a54739a27015eecc3fbbae,
+Vung-Win7-Bladabindi  ,
+Vung-Win7-Cryptowall,
+Vung-Win7-Locky.Gen,
+Vung-Win7-Multinjector,
+Vung-Win7-Teerac.B ,
+VungPham-Behavior-Bladabindi.gen-XP,Behaviour
+VungPham-Behavior-MultiInjector-XP ,Behaviour
+VungPham-Behavior-Vawtrak.A-XP ,Behaviour
+VungPham-Behavior-Winwebsec.I ,Behaviour
+Vung-Behavior-XP-Payment copy ,Behaviour
+Vung-Behavior-XP-RemR ,Behaviour
+Vung-Behavior-XP-Scan-copy-(alloyanycut) ,Behaviour
+Faran-Trojan-Backdoor.win32.BlueIce,Backdoor
+Faran-Trojan-Backdoor.Win32.CyberSpy.13.b,Backdoor
+Faran-Trojan-Backdoor.win32.Death.25.i,Backdoor
+Faran-Trojan-Backdoor.win32.executor.a,Backdoor
+Faran-win7-Trojan-Backdoor.Win32.Alicia.o,Backdoor
+Faran-win7-Trojan-Backdoor.win32.Executor.a,Backdoor
+Huyen-Ransomware-WannaPeace ,Ransomware
+Huyen-Trojan-Infostealer.Dexter ,Ransomware
+Vung-Email-Flooder-Absolut-XP ,EmailFlooder
+Vung-Email-Flooder-Achis-Win10 ,EmailFlooder
+Vung-Email-Flooder-Achis-XP ,EmailFlooder
+Vung-Email-Flooder-Archis-Win7 ,EmailFlooder
+Vung-HackTool-BackSteal-Win10 ,Hacktool
+Vung-HackTool-EmailCrack1-Win10 ,Hacktool
+Vung-HackTool-EmailCrack-Win10 ,Hacktool
+Vung-HackTool-EmailCrack-XP ,Hacktool
+Vung-HackTool-Stealm1-Win10 ,Hacktool
+Vung-HackTool-Stealm-Win10 ,Hacktool
